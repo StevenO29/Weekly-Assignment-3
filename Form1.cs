@@ -51,8 +51,6 @@ namespace Take_Home_Assignment_Week_3
                     else
                         MessageBox.Show("Syntax tidak terdaftar!");
                 }
-                else
-                    MessageBox.Show("Syntax tidak terdaftar");
             }
             catch (Exception ex)
             {
